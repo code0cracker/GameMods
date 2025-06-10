@@ -5,7 +5,10 @@
 [![Join Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.gg/nMCGpZAE)
 
 ---
-
+# New Update
+The Seasonal Gear Mod Script has been updated following the recent developer changes. However, due to the nature of the latest update, the new script is no longer publicly available.( Last One published  Permission With Developers)
+At this time, access is limited strictly to 3 or 4 highly trusted individuals for testing and security reasons.
+We appreciate your understanding and Thank you so much.
 # GameMods
 ## Overview
 Welcome to the Talent 7 Custom User Interface and Seasonal Gears Mod. This mod is designed to enhance the player experience by providing a customized user interface and seasonal gear options, all while ensuring that the game's physics remain unchanged.
